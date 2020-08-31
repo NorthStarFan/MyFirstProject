@@ -1,15 +1,15 @@
-//
-//  main.cpp
-//  MyFirstProject
-//
-//  Created by Justin Stuelke on 8/30/20.
-//  Copyright © 2020 Justin Stuelke. All rights reserved.
-//
+/*
+ Justin Stuelke
+ Due:8/31/2020
+ Lab 1 Hellow World
 
+ //  MyFirstProject
+
+*/
 #include <iostream>
-
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+int main() {
+std::cout << "Hello, World!\n";
+    std::cout <<"GREENish-BLUE!!";
+    
     return 0;
 }
